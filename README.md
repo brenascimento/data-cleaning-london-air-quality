@@ -1,5 +1,7 @@
 # Data Cleaning Project about London Air Quality
 
+<em>This project was written in English to train my storytelling(attempted) in english.</em>
+
 This is a project that focuses on Data Cleaning on London Air Quality dataset about six Sites/Boroughs Suphur Dioxide(SO2) Pollution. <br>
 
 In this notebook(`London Air Quality Sulphur Dioxide (SO2) - Data Cleaning Project`) has:
